@@ -1,0 +1,17 @@
+{
+  "name": "react-express-exemplar",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Marcin Filip <marcinosf@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/marcinosf/react-express-exemplar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
