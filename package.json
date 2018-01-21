@@ -19,10 +19,12 @@
   "dependencies": {
     "browser-sync": "^2.23.5",
     "browserify": "^15.2.0",
+    "create-react-class": "^15.6.2",
     "express": "^4.16.2",
     "gulp": "^3.9.1",
     "gulp-live-server": "0.0.31",
-    "react": "^16.2.0",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
     "reactify": "^1.1.1",
     "vinyl-source-stream": "^2.0.0"
   }
