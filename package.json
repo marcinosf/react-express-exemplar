@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/marcinosf/react-express-exemplar/issues"
   },
-  "homepage": "https://github.com/marcinosf/react-express-exemplar#readme",
+  "homepage": "https://marcinosf.github.io/react-express-exemplar/",
   "dependencies": {
     "browser-sync": "^2.23.5",
     "browserify": "^15.2.0",
